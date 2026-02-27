@@ -1,9 +1,11 @@
 
 **`Software Engineering(01/04)`**
 
-I'm a beginner developer, learning new things and technologies every day to grow my career.
-All my projects are here, and I hope you enjoy seeing what I build.
-I'm always striving to improve and get ready for future opportunities.
+I'm a Software Engineering student and a beginner backend developer.
+Currently focused on Java and Spring Boot, building projects to strengthen my fundamentals and grow professionally.
+
+All my projects are available here, and I'm constantly working to improve my skills and prepare for future opportunities.
+
 <br/>
 
 ### 🧰 Languages and Tools:
@@ -26,3 +28,4 @@ I'm always striving to improve and get ready for future opportunities.
 
 ##
 ### 🗂️ My main Github Projects:
+🔗 [View Project](https://github.com/DevMartinsF/batismo-de-java)
